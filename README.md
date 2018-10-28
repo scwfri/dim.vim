@@ -8,6 +8,6 @@ the result of these updates.
 
 ### [Plugged](https://github.com/junegunn/vim-plug)
 
-'''
+'''sh
 Plug 'sfrieds3/dim.vim'
 '''
