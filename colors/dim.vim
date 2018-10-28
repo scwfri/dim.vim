@@ -18,7 +18,7 @@ highlight FoldColumn	guibg=grey30 guifg=tan
 highlight IncSearch	guifg=slategrey guibg=khaki
 highlight ModeMsg	guifg=goldenrod
 highlight MoreMsg	guifg=SeaGreen
-highlight NonText guibg=grey20
+highlight NonText guifg=white
 highlight Question	guifg=springgreen
 highlight Search	guibg=grey30 guifg=#dfffdf
 highlight SpecialKey	guifg=yellowgreen
@@ -50,7 +50,7 @@ highlight GitGutterChangeDelete guibg=grey20
 
 " color terminal definitions
 highlight SpecialKey	ctermfg=darkgreen
-highlight NonText	cterm=bold ctermfg=darkblue
+highlight NonText	ctermfg=white
 highlight Directory	ctermfg=darkcyan
 highlight ErrorMsg	cterm=bold ctermfg=7 ctermbg=1
 highlight IncSearch	cterm=NONE ctermfg=yellow ctermbg=green
