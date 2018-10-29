@@ -12,7 +12,7 @@ highlight Normal	guifg=White guibg=grey20
 
 " highlight groups
 highlight Cursor	guibg=indianred guifg=khaki
-highlight VertSplit guibg=grey20
+highlight VertSplit guibg=grey20 guifg=grey50 gui=none
 highlight Folded	guibg=grey30 guifg=gold
 highlight FoldColumn	guibg=grey30 guifg=tan
 highlight IncSearch	guifg=slategrey guibg=khaki
