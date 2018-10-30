@@ -27,7 +27,7 @@ highlight StatusLineNC	guibg=#c2bfa5 guifg=grey50 gui=none
 highlight Title guifg=#aaaaaa
 highlight Visual	gui=none guifg=khaki guibg=olivedrab
 highlight WarningMsg	guifg=salmon
-highlight MatchParen guifg=white guibg=none ctermfg=none ctermbg=none
+highlight MatchParen guifg=white guibg=none ctermfg=none ctermbg=none gui=none
 
 " syntax highlighting groups
 highlight Comment	guifg=SkyBlue
