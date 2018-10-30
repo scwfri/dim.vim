@@ -29,8 +29,6 @@ highlight Visual	gui=none guifg=khaki guibg=olivedrab
 highlight WarningMsg	guifg=salmon
 highlight MatchParen guifg=white guibg=none ctermfg=none ctermbg=none
 
-()
-
 " syntax highlighting groups
 highlight Comment	guifg=SkyBlue
 highlight Constant	guifg=#ffa0a0
