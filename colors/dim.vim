@@ -27,7 +27,7 @@ highlight StatusLineNC	guibg=#c2bfa5 guifg=grey50 gui=none
 highlight Title guifg=#aaaaaa
 highlight Visual	gui=none guifg=khaki guibg=olivedrab
 highlight WarningMsg	guifg=salmon
-highlight MatchParen guifg=white guibg=none ctermfg=none ctermbg=none gui=none
+highlight MatchParen guifg=white guibg=grey30
 
 " syntax highlighting groups
 highlight Comment	guifg=SkyBlue
@@ -57,7 +57,7 @@ highlight IncSearch	cterm=NONE ctermfg=yellow ctermbg=green
 highlight Search	cterm=NONE ctermfg=grey ctermbg=blue
 highlight MoreMsg	ctermfg=darkgreen
 highlight ModeMsg	cterm=NONE ctermfg=brown
-highlight LineNr	ctermfg=3
+highlight LineNr ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE 
 highlight Question	ctermfg=green
 highlight StatusLine	cterm=bold,reverse
 highlight StatusLineNC cterm=reverse
@@ -79,7 +79,7 @@ highlight Special	ctermfg=5
 highlight Identifier	ctermfg=6
 highlight Statement	ctermfg=3
 highlight PreProc	ctermfg=5
-highlight Todo		ctermfg=red ctermbg=NONE
+highlight Todo ctermfg=255 ctermbg=NONE guifg=#8b0000 guibg=#ffff00
 highlight Type		ctermfg=2
 highlight Underlined	cterm=underline ctermfg=5
 highlight Ignore	cterm=bold ctermfg=7
