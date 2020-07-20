@@ -9,5 +9,5 @@ the result of these updates.
 ### [Plugged](https://github.com/junegunn/vim-plug)
 
 ```
-Plug 'sfrieds3/dim.vim'
+Plug 'scwfri/dim.vim'
 ```
